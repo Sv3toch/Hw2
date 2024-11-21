@@ -1,5 +1,6 @@
 .friendMessage {
-
+    display: flex;
+    justify-content: end;
 }
 
 .friendImageAndText {
