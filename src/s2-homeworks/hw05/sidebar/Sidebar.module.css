@@ -17,6 +17,8 @@
 }
 
 .nav a.active {
+    bgcolor: blue;
+    color: #00cc22;
 }
 .close {
 }
